@@ -1,23 +1,17 @@
 [
-    {
-      "name": "Mark Schlereth",
-      "email": "markschlereth@outlook.com",
-      "password": "password12345"
-    },
-    {
-      "name": "Todd Evans",
-      "email": "toddevans@google.com",
-      "password": "password12345"
-    },
-    {
-      "name": "Tim Budkas",
-      "email": "timbudkas@google.com",
-      "password": "password12345"
-    },
-    {
-        "name": "Barney Frank",
-        "email": "barney@barney.com",
-        "password": "password12345"
-    }
-  
-  ]
+  {
+      "username": "Lily",
+      "email": "Lily@test.com",
+      "password": "password123"
+  },
+  {
+      "username": "Tony",
+      "email": "Tony@test.com",
+      "password": "password123"
+  },
+  {
+      "username": "Tim",
+      "email": "timmy@test.com",
+      "password": "password123"
+  }
+]
