@@ -1,18 +1,17 @@
 [
     {
-        "name": "What does JSON stand for?",
-        "post_content": "Java Script Object Notation "
+      "name": "MVC",
+      "post_content": "Model, View, Client"
+      
     },
     {
-        "name": "Where is a good place to find front-end frameworks?",
-        "post_content": "Materialize"
+      "name": "Testing",
+      "post_content": "Jest allows you to test functions"
+      
     },
     {
-        "name": "What is Handlebars? ",
-        "post_content": "Handlebars is a template engine used in JS"
-    },
-    {
-        "name": "Is JS good to learn as a web developer?",
-        "post_content": "Absolutely!"
+      "name": "SQL",
+      "post_content": "Databases that are used to hold data"
+  
     }
-]
+  ]
